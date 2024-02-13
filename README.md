@@ -22,9 +22,5 @@ El contenido de este repositorio incluye, pero no se limita a:
 - **Mejorar la Documentación:** Si encuentras que la documentación es confusa o incompleta, o si tienes ejemplos adicionales para agregar, por favor contribuye con mejoras.
 - **Enviar Proyectos de Muestra:** Si has desarrollado proyectos interesantes utilizando estas tecnologías, considera compartirlos aquí para que otros desarrolladores puedan aprender de ellos.
 
-## Contacto
-
-Si tienes alguna pregunta, sugerencia o simplemente quieres decir hola, no dudes en ponerte en contacto conmigo. Puedes enviar un correo electrónico a [tu@email.com](mailto:tu@email.com) o abrir un issue en este repositorio.
-
 ¡Espero que encuentres este repositorio útil y que te ayude en tus proyectos de desarrollo!
 
