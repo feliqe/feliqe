@@ -2,7 +2,7 @@
 
 # Bienvenido al Repositorio de Herramientas y Proyectos de Desarrollo
 
-¡Hola desarrollador! Bienvenido a mi repositorio, donde encontrarás una colección de herramientas, métodos y proyectos para el desarrollo utilizando los lenguajes de programación React.js, React Native, Node.js y ASP.NET Core. Este repositorio está diseñado para ayudarte en tus proyectos actuales y futuros, proporcionando recursos útiles y ejemplos prácticos.
+¡Hola desarrollador! Bienvenido a mi repositorio, donde encontrarás una colección de herramientas, métodos y proyectos para el desarrollo utilizando los lenguajes de programación React.js, React Native, Node.js y Spring Boot. Este repositorio está diseñado para ayudarte en tus proyectos actuales y futuros, proporcionando recursos útiles y ejemplos prácticos.
 
 ## Acerca de este Repositorio
 
@@ -12,7 +12,7 @@ Este repositorio está enfocado en proporcionar recursos y proyectos prácticos 
 
 El contenido de este repositorio incluye, pero no se limita a:
 
-- **Herramientas de Desarrollo:** Recursos útiles como bibliotecas, frameworks, y utilidades para trabajar con React.js, React Native, Node.js y ASP.NET Core.
+- **Herramientas de Desarrollo:** Recursos útiles como bibliotecas, frameworks, y utilidades para trabajar con React.js, React Native, Node.js y Spring Boot.
 - **Métodos y Prácticas de Desarrollo:** Ejemplos de buenas prácticas, patrones de diseño, y métodos recomendados para desarrollar aplicaciones utilizando estas tecnologías.
 - **Proyectos de Muestra:** Proyectos completos que demuestran el uso de las tecnologías mencionadas en escenarios del mundo real. Estos proyectos pueden ayudarte a aprender nuevas técnicas y obtener ideas para tus propios proyectos.
 
