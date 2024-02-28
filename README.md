@@ -6,7 +6,7 @@
 
 ## Acerca de este Repositorio
 
-Este repositorio está enfocado en proporcionar recursos y proyectos prácticos para desarrolladores que trabajan con tecnologías como React.js, React Native, Node.js y ASP.NET Core. Aquí encontrarás una variedad de herramientas, ejemplos de código, y proyectos completos que pueden servir como punto de partida para tus propios desarrollos.
+Este repositorio está enfocado en proporcionar recursos y proyectos prácticos para desarrolladores que trabajan con tecnologías como React.js, React Native, Node.js y Spring Boot. Aquí encontrarás una variedad de herramientas, ejemplos de código, y proyectos completos que pueden servir como punto de partida para tus propios desarrollos.
 
 ## Contenido
 
