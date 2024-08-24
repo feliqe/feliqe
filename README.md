@@ -1,6 +1,4 @@
-
-
-# Bienvenido al Repositorio de Herramientas y Proyectos de Desarrollo
+# Bienvenido al Repositorio de Herramientas y Proyectos de Desarrollo <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px"> 
 
 ¡Hola desarrollador! Bienvenido a mi repositorio, donde encontrarás una colección de herramientas, métodos y proyectos para el desarrollo utilizando los lenguajes de programación React.js, React Native, Node.js y Spring Boot. Este repositorio está diseñado para ayudarte en tus proyectos actuales y futuros, proporcionando recursos útiles y ejemplos prácticos.
 
@@ -16,6 +14,14 @@ El contenido de este repositorio incluye, pero no se limita a:
 - **Métodos y Prácticas de Desarrollo:** Ejemplos de buenas prácticas, patrones de diseño, y métodos recomendados para desarrollar aplicaciones utilizando estas tecnologías.
 - **Proyectos de Muestra:** Proyectos completos que demuestran el uso de las tecnologías mencionadas en escenarios del mundo real. Estos proyectos pueden ayudarte a aprender nuevas técnicas y obtener ideas para tus propios proyectos.
 
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=feliqe&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feliqe&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</details>
+<hr/>
 ## Cómo Contribuir
 
 ¡Tu contribución es bienvenida! Si deseas contribuir a este repositorio, aquí hay algunas maneras en las que puedes ayudar:
